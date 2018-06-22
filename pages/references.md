@@ -7,3 +7,4 @@
 * [WFIRST: Microlensing Analysis Data Challenge](http://microlensing-source.org/).
 * [WFIRST Exoplanet Data Challenges](https://wfirst.ipac.caltech.edu/sims/CGI_Data_Challenges.html).
 * [The Photometric LSST Astronomical Time-Series Classification Challenge (PLAsTiCC)](https://plasticcblog.wordpress.com/).
+* [The 2016 interferometric imaging beauty contest](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9907/99071D/The-2016-interferometric-imaging-beauty-contest/10.1117/12.2231982.full).
