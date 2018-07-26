@@ -1,6 +1,6 @@
 Welcome to the website of the Exoplanets Direct Imaging Data Challenge. 
 
-# Scientific context
+# Scientific context bl
 {% include_relative pages/context.md %}
 
 # The challenge
